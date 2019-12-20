@@ -1,0 +1,1066 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5a17bba8-5b59-447c-9482-fc8b06693f32" name="默认更改列表" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/Data-Analysis-learning-notes.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machine-learning/决策树/.ipynb_checkpoints/分类决策树_回归决策树初步了解-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machine-learning/决策树/分类决策树_回归决策树初步了解.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machine-learning/最邻近规则分类(K-Nearest Neighbor)KNN算法/.ipynb_checkpoints/KNN鸢尾花分类处理-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machine-learning/最邻近规则分类(K-Nearest Neighbor)KNN算法/KNN鸢尾花分类处理.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machine-learning/最邻近规则分类(K-Nearest Neighbor)KNN算法/判断医美是否医美相关/.ipynb_checkpoints/判断医美关键词-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machine-learning/最邻近规则分类(K-Nearest Neighbor)KNN算法/判断医美是否医美相关/medical_interaction_dataset.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machine-learning/最邻近规则分类(K-Nearest Neighbor)KNN算法/判断医美是否医美相关/not_yimei_data.xls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machine-learning/最邻近规则分类(K-Nearest Neighbor)KNN算法/判断医美是否医美相关/stop_word.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machine-learning/最邻近规则分类(K-Nearest Neighbor)KNN算法/判断医美是否医美相关/yimei_data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machine-learning/最邻近规则分类(K-Nearest Neighbor)KNN算法/判断医美是否医美相关/判断医美关键词.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machine-learning/逻辑斯蒂回归/机器学习系列(3)_逻辑回归应用之Kaggle泰坦尼克之灾/.ipynb_checkpoints/Titanic-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machine-learning/逻辑斯蒂回归/机器学习系列(3)_逻辑回归应用之Kaggle泰坦尼克之灾/.ipynb_checkpoints/my_learn-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machine-learning/逻辑斯蒂回归/机器学习系列(3)_逻辑回归应用之Kaggle泰坦尼克之灾/Titanic.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machine-learning/逻辑斯蒂回归/机器学习系列(3)_逻辑回归应用之Kaggle泰坦尼克之灾/my_learn.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machine-learning/逻辑斯蒂回归/机器学习系列(3)_逻辑回归应用之Kaggle泰坦尼克之灾/test.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machine-learning/逻辑斯蒂回归/机器学习系列(3)_逻辑回归应用之Kaggle泰坦尼克之灾/train.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nlp/Gensim学习笔记.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nlp/model.tfidf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nlp/nlp学习-寒小阳/Lecture_1/.ipynb_checkpoints/Python正则表达式-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nlp/nlp学习-寒小阳/Lecture_1/.ipynb_checkpoints/jieba中文处理-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nlp/nlp学习-寒小阳/Lecture_1/.ipynb_checkpoints/string_operation-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nlp/nlp学习-寒小阳/Lecture_1/NBA.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nlp/nlp学习-寒小阳/Lecture_1/Python正则表达式.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nlp/nlp学习-寒小阳/Lecture_1/jieba中文处理.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nlp/nlp学习-寒小阳/Lecture_1/string_operation.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nlp/nlp学习-寒小阳/Lecture_1/tmp/MAIN_WRITELOCK" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nlp/nlp学习-寒小阳/Lecture_1/tmp/MAIN_qny1y4k3fy6lt7w8.seg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nlp/nlp学习-寒小阳/Lecture_1/tmp/_MAIN_1.toc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nlp/nlp学习-寒小阳/Lecture_1/西游记.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nlp/nlp学习-寒小阳/Lecture_2/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nlp/nlp学习-寒小阳/Lecture_2/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nlp/nlp学习-寒小阳/Lecture_2/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nlp/nlp学习-寒小阳/Lecture_2/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nlp/nlp学习-寒小阳/Lecture_2/5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nlp/nlp学习-寒小阳/Lecture_2/Language-Detector/data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nlp/nlp学习-寒小阳/Lecture_2/Language-Detector/detector.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nlp/nlp学习-寒小阳/Lecture_2/Language-Detector/detector2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nlp/nlp学习-寒小阳/Lecture_2/Language-Detector/简易语种检测器.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nlp/nlp学习-寒小阳/Lecture_2/Language-Detector/简易语种检测器.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nlp/nlp学习-寒小阳/Lecture_2/Naive-Bayes-Text-Classifier/Database/SogouC/ClassList.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nlp/nlp学习-寒小阳/Lecture_2/Naive-Bayes-Text-Classifier/Database/SogouC/Sample/C000008/10.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nlp/nlp学习-寒小阳/Lecture_2/Naive-Bayes-Text-Classifier/Database/SogouC/Sample/C000008/11.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nlp/nlp学习-寒小阳/Lecture_2/Naive-Bayes-Text-Classifier/Database/SogouC/Sample/C000008/12.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nlp/nlp学习-寒小阳/Lecture_2/Naive-Bayes-Text-Classifier/Database/SogouC/Sample/C000008/13.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nlp/nlp学习-寒小阳/Lecture_2/Naive-Bayes-Text-Classifier/Database/SogouC/Sample/C000008/14.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nlp/nlp学习-寒小阳/Lecture_2/Naive-Bayes-Text-Classifier/Database/SogouC/Sample/C000008/15.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nlp/nlp学习-寒小阳/Lecture_2/Naive-Bayes-Text-Classifier/Database/SogouC/Sample/C000008/16.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nlp/nlp学习-寒小阳/Lecture_2/Naive-Bayes-Text-Classifier/Database/SogouC/Sample/C000008/17.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nlp/nlp学习-寒小阳/Lecture_2/Naive-Bayes-Text-Classifier/Database/SogouC/Sample/C000008/18.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nlp/nlp学习-寒小阳/Lecture_2/Naive-Bayes-Text-Classifier/Database/SogouC/Sample/C000008/19.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nlp/nlp学习-寒小阳/Lecture_2/Naive-Bayes-Text-Classifier/Database/SogouC/Sample/C000010/10.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nlp/nlp学习-寒小阳/Lecture_2/Naive-Bayes-Text-Classifier/Database/SogouC/Sample/C000010/11.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nlp/nlp学习-寒小阳/Lecture_2/Naive-Bayes-Text-Classifier/Database/SogouC/Sample/C000010/12.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nlp/nlp学习-寒小阳/Lecture_2/Naive-Bayes-Text-Classifier/Database/SogouC/Sample/C000010/13.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nlp/nlp学习-寒小阳/Lecture_2/Naive-Bayes-Text-Classifier/Database/SogouC/Sample/C000010/14.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nlp/nlp学习-寒小阳/Lecture_2/Naive-Bayes-Text-Classifier/Database/SogouC/Sample/C000010/15.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nlp/nlp学习-寒小阳/Lecture_2/Naive-Bayes-Text-Classifier/Database/SogouC/Sample/C000010/16.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nlp/nlp学习-寒小阳/Lecture_2/Naive-Bayes-Text-Classifier/Database/SogouC/Sample/C000010/17.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nlp/nlp学习-寒小阳/Lecture_2/Naive-Bayes-Text-Classifier/Database/SogouC/Sample/C000010/18.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nlp/nlp学习-寒小阳/Lecture_2/Naive-Bayes-Text-Classifier/Database/SogouC/Sample/C000010/19.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nlp/nlp学习-寒小阳/Lecture_2/Naive-Bayes-Text-Classifier/Database/SogouC/Sample/C000013/10.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nlp/nlp学习-寒小阳/Lecture_2/Naive-Bayes-Text-Classifier/Database/SogouC/Sample/C000013/11.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nlp/nlp学习-寒小阳/Lecture_2/Naive-Bayes-Text-Classifier/Database/SogouC/Sample/C000013/12.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nlp/nlp学习-寒小阳/Lecture_2/Naive-Bayes-Text-Classifier/Database/SogouC/Sample/C000013/13.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nlp/nlp学习-寒小阳/Lecture_2/Naive-Bayes-Text-Classifier/Database/SogouC/Sample/C000013/14.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nlp/nlp学习-寒小阳/Lecture_2/Naive-Bayes-Text-Classifier/Database/SogouC/Sample/C000013/15.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nlp/nlp学习-寒小阳/Lecture_2/Naive-Bayes-Text-Classifier/Database/SogouC/Sample/C000013/16.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nlp/nlp学习-寒小阳/Lecture_2/Naive-Bayes-Text-Classifier/Database/SogouC/Sample/C000013/17.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nlp/nlp学习-寒小阳/Lecture_2/Naive-Bayes-Text-Classifier/Database/SogouC/Sample/C000013/18.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nlp/nlp学习-寒小阳/Lecture_2/Naive-Bayes-Text-Classifier/Database/SogouC/Sample/C000013/19.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nlp/nlp学习-寒小阳/Lecture_2/Naive-Bayes-Text-Classifier/Database/SogouC/Sample/C000014/10.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nlp/nlp学习-寒小阳/Lecture_2/Naive-Bayes-Text-Classifier/Database/SogouC/Sample/C000014/11.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nlp/nlp学习-寒小阳/Lecture_2/Naive-Bayes-Text-Classifier/Database/SogouC/Sample/C000014/12.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nlp/nlp学习-寒小阳/Lecture_2/Naive-Bayes-Text-Classifier/Database/SogouC/Sample/C000014/13.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nlp/nlp学习-寒小阳/Lecture_2/Naive-Bayes-Text-Classifier/Database/SogouC/Sample/C000014/14.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nlp/nlp学习-寒小阳/Lecture_2/Naive-Bayes-Text-Classifier/Database/SogouC/Sample/C000014/15.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nlp/nlp学习-寒小阳/Lecture_2/Naive-Bayes-Text-Classifier/Database/SogouC/Sample/C000014/16.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nlp/nlp学习-寒小阳/Lecture_2/Naive-Bayes-Text-Classifier/Database/SogouC/Sample/C000014/17.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nlp/nlp学习-寒小阳/Lecture_2/Naive-Bayes-Text-Classifier/Database/SogouC/Sample/C000014/18.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nlp/nlp学习-寒小阳/Lecture_2/Naive-Bayes-Text-Classifier/Database/SogouC/Sample/C000014/19.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nlp/nlp学习-寒小阳/Lecture_2/Naive-Bayes-Text-Classifier/Database/SogouC/Sample/C000016/10.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nlp/nlp学习-寒小阳/Lecture_2/Naive-Bayes-Text-Classifier/Database/SogouC/Sample/C000016/11.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nlp/nlp学习-寒小阳/Lecture_2/Naive-Bayes-Text-Classifier/Database/SogouC/Sample/C000016/12.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nlp/nlp学习-寒小阳/Lecture_2/Naive-Bayes-Text-Classifier/Database/SogouC/Sample/C000016/13.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nlp/nlp学习-寒小阳/Lecture_2/Naive-Bayes-Text-Classifier/Database/SogouC/Sample/C000016/14.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nlp/nlp学习-寒小阳/Lecture_2/Naive-Bayes-Text-Classifier/Database/SogouC/Sample/C000016/15.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nlp/nlp学习-寒小阳/Lecture_2/Naive-Bayes-Text-Classifier/Database/SogouC/Sample/C000016/16.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nlp/nlp学习-寒小阳/Lecture_2/Naive-Bayes-Text-Classifier/Database/SogouC/Sample/C000016/17.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nlp/nlp学习-寒小阳/Lecture_2/Naive-Bayes-Text-Classifier/Database/SogouC/Sample/C000016/18.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nlp/nlp学习-寒小阳/Lecture_2/Naive-Bayes-Text-Classifier/Database/SogouC/Sample/C000016/19.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nlp/nlp学习-寒小阳/Lecture_2/Naive-Bayes-Text-Classifier/Database/SogouC/Sample/C000020/10.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nlp/nlp学习-寒小阳/Lecture_2/Naive-Bayes-Text-Classifier/Database/SogouC/Sample/C000020/11.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nlp/nlp学习-寒小阳/Lecture_2/Naive-Bayes-Text-Classifier/Database/SogouC/Sample/C000020/12.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nlp/nlp学习-寒小阳/Lecture_2/Naive-Bayes-Text-Classifier/Database/SogouC/Sample/C000020/13.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nlp/nlp学习-寒小阳/Lecture_2/Naive-Bayes-Text-Classifier/Database/SogouC/Sample/C000020/14.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nlp/nlp学习-寒小阳/Lecture_2/Naive-Bayes-Text-Classifier/Database/SogouC/Sample/C000020/15.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nlp/nlp学习-寒小阳/Lecture_2/Naive-Bayes-Text-Classifier/Database/SogouC/Sample/C000020/16.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nlp/nlp学习-寒小阳/Lecture_2/Naive-Bayes-Text-Classifier/Database/SogouC/Sample/C000020/17.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nlp/nlp学习-寒小阳/Lecture_2/Naive-Bayes-Text-Classifier/Database/SogouC/Sample/C000020/18.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nlp/nlp学习-寒小阳/Lecture_2/Naive-Bayes-Text-Classifier/Database/SogouC/Sample/C000020/19.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nlp/nlp学习-寒小阳/Lecture_2/Naive-Bayes-Text-Classifier/Database/SogouC/Sample/C000022/10.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nlp/nlp学习-寒小阳/Lecture_2/Naive-Bayes-Text-Classifier/Database/SogouC/Sample/C000022/11.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nlp/nlp学习-寒小阳/Lecture_2/Naive-Bayes-Text-Classifier/Database/SogouC/Sample/C000022/12.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nlp/nlp学习-寒小阳/Lecture_2/Naive-Bayes-Text-Classifier/Database/SogouC/Sample/C000022/13.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nlp/nlp学习-寒小阳/Lecture_2/Naive-Bayes-Text-Classifier/Database/SogouC/Sample/C000022/14.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nlp/nlp学习-寒小阳/Lecture_2/Naive-Bayes-Text-Classifier/Database/SogouC/Sample/C000022/15.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nlp/nlp学习-寒小阳/Lecture_2/Naive-Bayes-Text-Classifier/Database/SogouC/Sample/C000022/16.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nlp/nlp学习-寒小阳/Lecture_2/Naive-Bayes-Text-Classifier/Database/SogouC/Sample/C000022/17.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nlp/nlp学习-寒小阳/Lecture_2/Naive-Bayes-Text-Classifier/Database/SogouC/Sample/C000022/18.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nlp/nlp学习-寒小阳/Lecture_2/Naive-Bayes-Text-Classifier/Database/SogouC/Sample/C000022/19.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nlp/nlp学习-寒小阳/Lecture_2/Naive-Bayes-Text-Classifier/Database/SogouC/Sample/C000023/10.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nlp/nlp学习-寒小阳/Lecture_2/Naive-Bayes-Text-Classifier/Database/SogouC/Sample/C000023/11.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nlp/nlp学习-寒小阳/Lecture_2/Naive-Bayes-Text-Classifier/Database/SogouC/Sample/C000023/12.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nlp/nlp学习-寒小阳/Lecture_2/Naive-Bayes-Text-Classifier/Database/SogouC/Sample/C000023/13.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nlp/nlp学习-寒小阳/Lecture_2/Naive-Bayes-Text-Classifier/Database/SogouC/Sample/C000023/14.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nlp/nlp学习-寒小阳/Lecture_2/Naive-Bayes-Text-Classifier/Database/SogouC/Sample/C000023/15.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nlp/nlp学习-寒小阳/Lecture_2/Naive-Bayes-Text-Classifier/Database/SogouC/Sample/C000023/16.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nlp/nlp学习-寒小阳/Lecture_2/Naive-Bayes-Text-Classifier/Database/SogouC/Sample/C000023/17.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nlp/nlp学习-寒小阳/Lecture_2/Naive-Bayes-Text-Classifier/Database/SogouC/Sample/C000023/18.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nlp/nlp学习-寒小阳/Lecture_2/Naive-Bayes-Text-Classifier/Database/SogouC/Sample/C000023/19.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nlp/nlp学习-寒小阳/Lecture_2/Naive-Bayes-Text-Classifier/Database/SogouC/Sample/C000024/10.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nlp/nlp学习-寒小阳/Lecture_2/Naive-Bayes-Text-Classifier/Database/SogouC/Sample/C000024/11.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nlp/nlp学习-寒小阳/Lecture_2/Naive-Bayes-Text-Classifier/Database/SogouC/Sample/C000024/12.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nlp/nlp学习-寒小阳/Lecture_2/Naive-Bayes-Text-Classifier/Database/SogouC/Sample/C000024/13.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nlp/nlp学习-寒小阳/Lecture_2/Naive-Bayes-Text-Classifier/Database/SogouC/Sample/C000024/14.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nlp/nlp学习-寒小阳/Lecture_2/Naive-Bayes-Text-Classifier/Database/SogouC/Sample/C000024/15.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nlp/nlp学习-寒小阳/Lecture_2/Naive-Bayes-Text-Classifier/Database/SogouC/Sample/C000024/16.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nlp/nlp学习-寒小阳/Lecture_2/Naive-Bayes-Text-Classifier/Database/SogouC/Sample/C000024/17.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nlp/nlp学习-寒小阳/Lecture_2/Naive-Bayes-Text-Classifier/Database/SogouC/Sample/C000024/18.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nlp/nlp学习-寒小阳/Lecture_2/Naive-Bayes-Text-Classifier/Database/SogouC/Sample/C000024/19.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nlp/nlp学习-寒小阳/Lecture_2/Naive-Bayes-Text-Classifier/model.textclf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nlp/nlp学习-寒小阳/Lecture_2/Naive-Bayes-Text-Classifier/stopwords_cn.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nlp/nlp学习-寒小阳/Lecture_2/Naive-Bayes-Text-Classifier/朴素贝叶斯新闻分类.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nlp/nlp学习-寒小阳/Lecture_2/Naive-Bayes-Text-Classifier/朴素贝叶斯新闻分类.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nlp/nlp学习-寒小阳/Lecture_2/Naive-Bayes-Text-Classifier/朴素贝叶斯新闻分类.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nlp/nlp学习-寒小阳/Lecture_2/从NB到语言模型.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nlp/nlp学习-寒小阳/Lecture_2/朴素贝叶斯.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nlp/nlp学习-寒小阳/__MACOSX/主题模型课件与资料/._.DS_Store" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nlp/nlp学习-寒小阳/__MACOSX/主题模型课件与资料/._主体模型.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nlp/nlp学习-寒小阳/主题模型课件与资料/input/HillaryEmails.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nlp/nlp学习-寒小阳/主题模型课件与资料/notebook/.ipynb_checkpoints/HillaryEmail-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nlp/nlp学习-寒小阳/主题模型课件与资料/notebook/HillaryEmail.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nlp/nlp学习-寒小阳/主题模型课件与资料/notebook/HillaryEmail.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nlp/nlp学习-寒小阳/主题模型课件与资料/主体模型.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nlp/nlp学习-寒小阳/朴素贝叶斯实战与进阶_Kaggle比赛之影评与观影者情感判定/labeledTrainData.tsv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nlp/nlp学习-寒小阳/朴素贝叶斯实战与进阶_Kaggle比赛之影评与观影者情感判定/model_NB.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nlp/nlp学习-寒小阳/朴素贝叶斯实战与进阶_Kaggle比赛之影评与观影者情感判定/sampleSubmission.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nlp/nlp学习-寒小阳/朴素贝叶斯实战与进阶_Kaggle比赛之影评与观影者情感判定/testData.tsv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nlp/nlp学习-寒小阳/朴素贝叶斯实战与进阶_Kaggle比赛之影评与观影者情感判定/test_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nlp/nlp学习-寒小阳/朴素贝叶斯实战与进阶_Kaggle比赛之影评与观影者情感判定/test_predict.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nlp/nlp学习-寒小阳/朴素贝叶斯实战与进阶_Kaggle比赛之影评与观影者情感判定/unlabeledTrainData.tsv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nlp/nlp学习-寒小阳/朴素贝叶斯实战与进阶_新闻分类.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nlp/nlp学习-寒小阳/朴素贝叶斯实战与进阶_鸢尾分类.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nlp/实战_判断是否为医美互动/.ipynb_checkpoints/判断医美关键词-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nlp/实战_判断是否为医美互动/medical_interaction_dataset.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nlp/实战_判断是否为医美互动/not_yimei_data.xls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nlp/实战_判断是否为医美互动/stop_word.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nlp/实战_判断是否为医美互动/yimei_data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nlp/实战_判断是否为医美互动/判断医美关键词.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/数据分析/day06-15/4-KNN/code/.ipynb_checkpoints/鸢尾花分类处理-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/数据分析/day06-15/5-逻辑斯蒂/codes/.ipynb_checkpoints/人脸补全-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/数据分析/day06-15/5-逻辑斯蒂/codes/人脸补全.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/数据分析/day06-15/6-贝叶斯-决策树/决策树/target/.ipynb_checkpoints/三种分类算法的比较-checkpoint(1).ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/数据分析/day06-15/7-SVM-Kmeans/SVM绘制分类超平面.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/数据分析/day06-15/8-特征处理-交叉验证-降维等常用方法/.ipynb_checkpoints/人脸识别-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/数据分析/day06-15/8-特征处理-交叉验证-降维等常用方法/.ipynb_checkpoints/特征选择-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/数据分析/day06-15/8-特征处理-交叉验证-降维等常用方法/code/.ipynb_checkpoints/人脸识别-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nlp/nlp学习-寒小阳/朴素贝叶斯实战与进阶_Kaggle比赛之影评与观影者情感判定/朴素贝叶斯实战与进阶_Kaggle比赛之影评与观影者情感判定.py" beforeDir="false" afterPath="$PROJECT_DIR$/nlp/nlp学习-寒小阳/朴素贝叶斯实战与进阶_Kaggle比赛之影评与观影者情感判定/朴素贝叶斯实战与进阶_Kaggle比赛之影评与观影者情感判定.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day01(7.16)/.ipynb_checkpoints/election-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/1-pandas语法回顾-美国政治选举/.ipynb_checkpoints/election-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day01(7.16)/.ipynb_checkpoints/pandas语法回顾-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/1-pandas语法回顾-美国政治选举/.ipynb_checkpoints/pandas语法回顾-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day01(7.16)/.ipynb_checkpoints/pandas语法回顾2-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/1-pandas语法回顾-美国政治选举/.ipynb_checkpoints/pandas语法回顾2-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day01(7.16)/.ipynb_checkpoints/pandas语法回顾3-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/1-pandas语法回顾-美国政治选举/.ipynb_checkpoints/pandas语法回顾3-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day01(7.16)/.ipynb_checkpoints/美国选举政治献金-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/1-pandas语法回顾-美国政治选举/.ipynb_checkpoints/美国选举政治献金-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day01(7.16)/code/pandas语法回顾.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/1-pandas语法回顾-美国政治选举/code/pandas语法回顾.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day01(7.16)/code/pandas语法回顾2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/1-pandas语法回顾-美国政治选举/code/pandas语法回顾2.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day01(7.16)/code/pandas语法回顾3.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/1-pandas语法回顾-美国政治选举/code/pandas语法回顾3.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day01(7.16)/code/美国选举政治献金.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/1-pandas语法回顾-美国政治选举/code/美国选举政治献金.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day01(7.16)/data/usa_election.txt" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/1-pandas语法回顾-美国政治选举/data/usa_election.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day01(7.16)/data/业务表.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/1-pandas语法回顾-美国政治选举/data/业务表.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day01(7.16)/data/关系表.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/1-pandas语法回顾-美国政治选举/data/关系表.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day02(7.17)/.ipynb_checkpoints/Scipy-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/2-绘图1/.ipynb_checkpoints/Scipy-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day02(7.17)/.ipynb_checkpoints/matplotlib绘图-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/2-绘图1/.ipynb_checkpoints/matplotlib绘图-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day02(7.17)/.ipynb_checkpoints/pandas绘图-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/2-绘图1/.ipynb_checkpoints/pandas绘图-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day02(7.17)/.ipynb_checkpoints/scipy-ndimage-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/2-绘图1/.ipynb_checkpoints/scipy-ndimage-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day02(7.17)/Scipy.xmind" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/2-绘图1/Scipy.xmind" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day02(7.17)/code/Scipy.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/2-绘图1/code/Scipy.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day02(7.17)/code/matplotlib绘图.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/2-绘图1/code/matplotlib绘图.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day02(7.17)/code/pandas绘图.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/2-绘图1/code/pandas绘图.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day02(7.17)/code/scipy-ndimage.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/2-绘图1/code/scipy-ndimage.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day02(7.17)/data/button.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/2-绘图1/data/button.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day02(7.17)/data/gray_meixi2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/2-绘图1/data/gray_meixi2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day02(7.17)/data/gray_mexi.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/2-绘图1/data/gray_mexi.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day02(7.17)/data/meixi.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/2-绘图1/data/meixi.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day02(7.17)/data/moonlanding.png" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/2-绘图1/data/moonlanding.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day02(7.17)/data/xiaomingpath.mat" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/2-绘图1/data/xiaomingpath.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day02(7.17)/预习matplotlib/.ipynb_checkpoints/matplotlib-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/2-绘图1/预习matplotlib/.ipynb_checkpoints/matplotlib-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day02(7.17)/预习matplotlib/.ipynb_checkpoints/matplotlib_note-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/2-绘图1/预习matplotlib/.ipynb_checkpoints/matplotlib_note-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day02(7.17)/预习matplotlib/1.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/2-绘图1/预习matplotlib/1.PNG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day02(7.17)/预习matplotlib/10.png" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/2-绘图1/预习matplotlib/10.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day02(7.17)/预习matplotlib/11.png" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/2-绘图1/预习matplotlib/11.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day02(7.17)/预习matplotlib/13.png" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/2-绘图1/预习matplotlib/13.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day02(7.17)/预习matplotlib/14.png" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/2-绘图1/预习matplotlib/14.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day02(7.17)/预习matplotlib/15.png" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/2-绘图1/预习matplotlib/15.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day02(7.17)/预习matplotlib/16.png" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/2-绘图1/预习matplotlib/16.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day02(7.17)/预习matplotlib/1801.png" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/2-绘图1/预习matplotlib/1801.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day02(7.17)/预习matplotlib/18011.png" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/2-绘图1/预习matplotlib/18011.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day02(7.17)/预习matplotlib/2.png" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/2-绘图1/预习matplotlib/2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day02(7.17)/预习matplotlib/3.png" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/2-绘图1/预习matplotlib/3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day02(7.17)/预习matplotlib/4.png" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/2-绘图1/预习matplotlib/4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day02(7.17)/预习matplotlib/5.png" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/2-绘图1/预习matplotlib/5.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day02(7.17)/预习matplotlib/6.png" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/2-绘图1/预习matplotlib/6.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day02(7.17)/预习matplotlib/7.png" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/2-绘图1/预习matplotlib/7.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day02(7.17)/预习matplotlib/8.png" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/2-绘图1/预习matplotlib/8.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day02(7.17)/预习matplotlib/9.png" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/2-绘图1/预习matplotlib/9.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day02(7.17)/预习matplotlib/Ravenna_wind.npy" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/2-绘图1/预习matplotlib/Ravenna_wind.npy" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day02(7.17)/预习matplotlib/matplotlib.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/2-绘图1/预习matplotlib/matplotlib.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day02(7.17)/预习matplotlib/matplotlib图像组成.png" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/2-绘图1/预习matplotlib/matplotlib图像组成.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day02(7.17)/预习matplotlib/sin.png" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/2-绘图1/预习matplotlib/sin.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day03(7.18)/.ipynb_checkpoints/matplotlib绘图2-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/3-绘图2/.ipynb_checkpoints/matplotlib绘图2-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day03(7.18)/.ipynb_checkpoints/matplotlib绘图3-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/3-绘图2/.ipynb_checkpoints/matplotlib绘图3-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day03(7.18)/homework_Sea distance/.ipynb_checkpoints/Sea distance-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/3-绘图2/homework_Sea distance/.ipynb_checkpoints/Sea distance-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day03(7.18)/homework_Sea distance/.ipynb_checkpoints/home_work-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/nlp/.ipynb_checkpoints/Gensim学习笔记-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day03(7.18)/homework_Sea distance/Sea distance.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/3-绘图2/homework_Sea distance/Sea distance.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day03(7.18)/homework_Sea distance/asti_150715.csv" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/3-绘图2/homework_Sea distance/asti_150715.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day03(7.18)/homework_Sea distance/asti_250715.csv" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/3-绘图2/homework_Sea distance/asti_250715.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day03(7.18)/homework_Sea distance/asti_270615.csv" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/3-绘图2/homework_Sea distance/asti_270615.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day03(7.18)/homework_Sea distance/bologna_150715.csv" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/3-绘图2/homework_Sea distance/bologna_150715.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day03(7.18)/homework_Sea distance/bologna_250715.csv" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/3-绘图2/homework_Sea distance/bologna_250715.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day03(7.18)/homework_Sea distance/bologna_270615.csv" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/3-绘图2/homework_Sea distance/bologna_270615.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day03(7.18)/homework_Sea distance/cesena_150715.csv" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/3-绘图2/homework_Sea distance/cesena_150715.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day03(7.18)/homework_Sea distance/cesena_250715.csv" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/3-绘图2/homework_Sea distance/cesena_250715.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day03(7.18)/homework_Sea distance/cesena_270615.csv" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/3-绘图2/homework_Sea distance/cesena_270615.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day03(7.18)/homework_Sea distance/faenza_150715.csv" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/3-绘图2/homework_Sea distance/faenza_150715.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day03(7.18)/homework_Sea distance/faenza_250715.csv" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/3-绘图2/homework_Sea distance/faenza_250715.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day03(7.18)/homework_Sea distance/faenza_270615.csv" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/3-绘图2/homework_Sea distance/faenza_270615.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day03(7.18)/homework_Sea distance/ferrara_150715.csv" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/3-绘图2/homework_Sea distance/ferrara_150715.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day03(7.18)/homework_Sea distance/ferrara_250715.csv" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/3-绘图2/homework_Sea distance/ferrara_250715.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day03(7.18)/homework_Sea distance/ferrara_270615.csv" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/3-绘图2/homework_Sea distance/ferrara_270615.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day03(7.18)/homework_Sea distance/mantova_150715.csv" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/3-绘图2/homework_Sea distance/mantova_150715.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day03(7.18)/homework_Sea distance/mantova_250715.csv" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/3-绘图2/homework_Sea distance/mantova_250715.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day03(7.18)/homework_Sea distance/mantova_270615.csv" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/3-绘图2/homework_Sea distance/mantova_270615.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day03(7.18)/homework_Sea distance/milano_150715.csv" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/3-绘图2/homework_Sea distance/milano_150715.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day03(7.18)/homework_Sea distance/milano_250715.csv" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/3-绘图2/homework_Sea distance/milano_250715.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day03(7.18)/homework_Sea distance/milano_270615.csv" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/3-绘图2/homework_Sea distance/milano_270615.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day03(7.18)/homework_Sea distance/piacenza_150715.csv" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/3-绘图2/homework_Sea distance/piacenza_150715.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day03(7.18)/homework_Sea distance/piacenza_250715.csv" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/3-绘图2/homework_Sea distance/piacenza_250715.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day03(7.18)/homework_Sea distance/piacenza_270615.csv" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/3-绘图2/homework_Sea distance/piacenza_270615.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day03(7.18)/homework_Sea distance/ravenna_150715.csv" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/3-绘图2/homework_Sea distance/ravenna_150715.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day03(7.18)/homework_Sea distance/ravenna_250715.csv" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/3-绘图2/homework_Sea distance/ravenna_250715.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day03(7.18)/homework_Sea distance/ravenna_270615.csv" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/3-绘图2/homework_Sea distance/ravenna_270615.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day03(7.18)/homework_Sea distance/torino_150715.csv" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/3-绘图2/homework_Sea distance/torino_150715.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day03(7.18)/homework_Sea distance/torino_250715.csv" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/3-绘图2/homework_Sea distance/torino_250715.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day03(7.18)/homework_Sea distance/torino_270615.csv" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/3-绘图2/homework_Sea distance/torino_270615.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day03(7.18)/matplotlib/.ipynb_checkpoints/matplotlib-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/3-绘图2/matplotlib/.ipynb_checkpoints/matplotlib-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day03(7.18)/matplotlib/.ipynb_checkpoints/matplotlib_note-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/3-绘图2/matplotlib/.ipynb_checkpoints/matplotlib_note-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day03(7.18)/matplotlib/1.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/3-绘图2/matplotlib/1.PNG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day03(7.18)/matplotlib/10.png" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/3-绘图2/matplotlib/10.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day03(7.18)/matplotlib/11.png" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/3-绘图2/matplotlib/11.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day03(7.18)/matplotlib/13.png" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/3-绘图2/matplotlib/13.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day03(7.18)/matplotlib/14.png" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/3-绘图2/matplotlib/14.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day03(7.18)/matplotlib/15.png" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/3-绘图2/matplotlib/15.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day03(7.18)/matplotlib/16.png" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/3-绘图2/matplotlib/16.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day03(7.18)/matplotlib/1801.png" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/3-绘图2/matplotlib/1801.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day03(7.18)/matplotlib/18011.png" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/3-绘图2/matplotlib/18011.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day03(7.18)/matplotlib/2.png" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/3-绘图2/matplotlib/2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day03(7.18)/matplotlib/3.png" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/3-绘图2/matplotlib/3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day03(7.18)/matplotlib/4.png" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/3-绘图2/matplotlib/4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day03(7.18)/matplotlib/5.png" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/3-绘图2/matplotlib/5.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day03(7.18)/matplotlib/6.png" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/3-绘图2/matplotlib/6.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day03(7.18)/matplotlib/7.png" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/3-绘图2/matplotlib/7.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day03(7.18)/matplotlib/8.png" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/3-绘图2/matplotlib/8.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day03(7.18)/matplotlib/9.png" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/3-绘图2/matplotlib/9.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day03(7.18)/matplotlib/Ravenna_wind.npy" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/3-绘图2/matplotlib/Ravenna_wind.npy" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day03(7.18)/matplotlib/matplotlib.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/3-绘图2/matplotlib/matplotlib.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day03(7.18)/matplotlib/matplotlib图像组成.png" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/3-绘图2/matplotlib/matplotlib图像组成.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day03(7.18)/matplotlib/sin.png" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/3-绘图2/matplotlib/sin.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day03(7.18)/matplotlib绘图2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/3-绘图2/matplotlib绘图2.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day03(7.18)/matplotlib绘图3.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/3-绘图2/matplotlib绘图3.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day03(7.18)/test11.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/3-绘图2/test11.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day04(7.19)/.ipynb_checkpoints/KNN处理回归-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/4-KNN/.ipynb_checkpoints/KNN处理回归-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day04(7.19)/.ipynb_checkpoints/入门案例-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/4-KNN/.ipynb_checkpoints/入门案例-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day04(7.19)/.ipynb_checkpoints/电影类别分析-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/4-KNN/.ipynb_checkpoints/电影类别分析-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day04(7.19)/.ipynb_checkpoints/电影类别分析2-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/4-KNN/.ipynb_checkpoints/电影类别分析2-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day04(7.19)/.ipynb_checkpoints/透视表和交叉表-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/4-KNN/.ipynb_checkpoints/透视表和交叉表-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day04(7.19)/.ipynb_checkpoints/鸢尾花分类处理-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/4-KNN/.ipynb_checkpoints/鸢尾花分类处理-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day04(7.19)/Day8-KNN.xmind" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/4-KNN/Day8-KNN.xmind" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day04(7.19)/code/KNN处理回归.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/4-KNN/code/KNN处理回归.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day04(7.19)/code/Sea distance.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/4-KNN/code/Sea distance.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day04(7.19)/code/入门案例.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/4-KNN/code/入门案例.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day04(7.19)/code/电影类别分析.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/4-KNN/code/电影类别分析.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day04(7.19)/code/电影类别分析2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/4-KNN/code/电影类别分析2.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day04(7.19)/code/透视表和交叉表.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/4-KNN/code/透视表和交叉表.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day04(7.19)/code/鸢尾花分类处理.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/4-KNN/code/鸢尾花分类处理.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day04(7.19)/data/adults.txt" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/4-KNN/data/adults.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day04(7.19)/data/data.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/4-KNN/data/data.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day04(7.19)/data/datingTestSet.txt" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/4-KNN/data/datingTestSet.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day04(7.19)/data/datingTestSet2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/4-KNN/data/datingTestSet2.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day04(7.19)/data/films.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/4-KNN/data/films.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day04(7.19)/data/seeds.tsv" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/4-KNN/data/seeds.tsv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day11(7.23)/.ipynb_checkpoints/Logistic绘制分类边界-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/5-逻辑斯蒂/.ipynb_checkpoints/Logistic绘制分类边界-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day11(7.23)/.ipynb_checkpoints/Untitled-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/5-逻辑斯蒂/.ipynb_checkpoints/Untitled-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day11(7.23)/.ipynb_checkpoints/人脸补全-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/5-逻辑斯蒂/.ipynb_checkpoints/人脸补全-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day11(7.23)/.ipynb_checkpoints/手写数字识别-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/5-逻辑斯蒂/.ipynb_checkpoints/手写数字识别-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day11(7.23)/codes/Logistic绘制分类边界.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/5-逻辑斯蒂/codes/Logistic绘制分类边界.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day11(7.23)/codes/Untitled.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/5-逻辑斯蒂/codes/Untitled.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day11(7.23)/codes/abalone.txt" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/5-逻辑斯蒂/codes/abalone.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day11(7.23)/codes/人脸补全.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/machine-learning/最邻近规则分类(K-Nearest Neighbor)KNN算法/人脸补全.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day11(7.23)/codes/手写数字识别.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/5-逻辑斯蒂/codes/手写数字识别.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day12(7.24)/.ipynb_checkpoints/预测隐形眼镜类型-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/6-贝叶斯-决策树/.ipynb_checkpoints/预测隐形眼镜类型-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day12(7.24)/Byes/data/SMSSpamCollection" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/6-贝叶斯-决策树/Byes/data/SMSSpamCollection" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day12(7.24)/Byes/data/email/ham/1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/6-贝叶斯-决策树/Byes/data/email/ham/1.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day12(7.24)/Byes/data/email/ham/10.txt" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/6-贝叶斯-决策树/Byes/data/email/ham/10.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day12(7.24)/Byes/data/email/ham/11.txt" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/6-贝叶斯-决策树/Byes/data/email/ham/11.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day12(7.24)/Byes/data/email/ham/12.txt" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/6-贝叶斯-决策树/Byes/data/email/ham/12.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day12(7.24)/Byes/data/email/ham/13.txt" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/6-贝叶斯-决策树/Byes/data/email/ham/13.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day12(7.24)/Byes/data/email/ham/14.txt" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/6-贝叶斯-决策树/Byes/data/email/ham/14.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day12(7.24)/Byes/data/email/ham/15.txt" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/6-贝叶斯-决策树/Byes/data/email/ham/15.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day12(7.24)/Byes/data/email/ham/16.txt" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/6-贝叶斯-决策树/Byes/data/email/ham/16.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day12(7.24)/Byes/data/email/ham/17.txt" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/6-贝叶斯-决策树/Byes/data/email/ham/17.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day12(7.24)/Byes/data/email/ham/18.txt" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/6-贝叶斯-决策树/Byes/data/email/ham/18.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day12(7.24)/Byes/data/email/ham/19.txt" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/6-贝叶斯-决策树/Byes/data/email/ham/19.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day12(7.24)/Byes/data/email/ham/2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/6-贝叶斯-决策树/Byes/data/email/ham/2.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day12(7.24)/Byes/data/email/ham/20.txt" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/6-贝叶斯-决策树/Byes/data/email/ham/20.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day12(7.24)/Byes/data/email/ham/21.txt" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/6-贝叶斯-决策树/Byes/data/email/ham/21.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day12(7.24)/Byes/data/email/ham/22.txt" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/6-贝叶斯-决策树/Byes/data/email/ham/22.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day12(7.24)/Byes/data/email/ham/23.txt" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/6-贝叶斯-决策树/Byes/data/email/ham/23.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day12(7.24)/Byes/data/email/ham/24.txt" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/6-贝叶斯-决策树/Byes/data/email/ham/24.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day12(7.24)/Byes/data/email/ham/25.txt" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/6-贝叶斯-决策树/Byes/data/email/ham/25.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day12(7.24)/Byes/data/email/ham/3.txt" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/6-贝叶斯-决策树/Byes/data/email/ham/3.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day12(7.24)/Byes/data/email/ham/4.txt" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/6-贝叶斯-决策树/Byes/data/email/ham/4.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day12(7.24)/Byes/data/email/ham/5.txt" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/6-贝叶斯-决策树/Byes/data/email/ham/5.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day12(7.24)/Byes/data/email/ham/6.txt" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/6-贝叶斯-决策树/Byes/data/email/ham/6.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day12(7.24)/Byes/data/email/ham/7.txt" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/6-贝叶斯-决策树/Byes/data/email/ham/7.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day12(7.24)/Byes/data/email/ham/8.txt" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/6-贝叶斯-决策树/Byes/data/email/ham/8.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day12(7.24)/Byes/data/email/ham/9.txt" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/6-贝叶斯-决策树/Byes/data/email/ham/9.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day12(7.24)/Byes/data/email/spam/1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/6-贝叶斯-决策树/Byes/data/email/spam/1.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day12(7.24)/Byes/data/email/spam/10.txt" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/6-贝叶斯-决策树/Byes/data/email/spam/10.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day12(7.24)/Byes/data/email/spam/11.txt" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/6-贝叶斯-决策树/Byes/data/email/spam/11.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day12(7.24)/Byes/data/email/spam/12.txt" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/6-贝叶斯-决策树/Byes/data/email/spam/12.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day12(7.24)/Byes/data/email/spam/13.txt" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/6-贝叶斯-决策树/Byes/data/email/spam/13.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day12(7.24)/Byes/data/email/spam/14.txt" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/6-贝叶斯-决策树/Byes/data/email/spam/14.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day12(7.24)/Byes/data/email/spam/15.txt" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/6-贝叶斯-决策树/Byes/data/email/spam/15.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day12(7.24)/Byes/data/email/spam/16.txt" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/6-贝叶斯-决策树/Byes/data/email/spam/16.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day12(7.24)/Byes/data/email/spam/17.txt" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/6-贝叶斯-决策树/Byes/data/email/spam/17.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day12(7.24)/Byes/data/email/spam/18.txt" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/6-贝叶斯-决策树/Byes/data/email/spam/18.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day12(7.24)/Byes/data/email/spam/19.txt" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/6-贝叶斯-决策树/Byes/data/email/spam/19.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day12(7.24)/Byes/data/email/spam/2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/6-贝叶斯-决策树/Byes/data/email/spam/2.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day12(7.24)/Byes/data/email/spam/20.txt" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/6-贝叶斯-决策树/Byes/data/email/spam/20.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day12(7.24)/Byes/data/email/spam/21.txt" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/6-贝叶斯-决策树/Byes/data/email/spam/21.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day12(7.24)/Byes/data/email/spam/22.txt" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/6-贝叶斯-决策树/Byes/data/email/spam/22.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day12(7.24)/Byes/data/email/spam/23.txt" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/6-贝叶斯-决策树/Byes/data/email/spam/23.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day12(7.24)/Byes/data/email/spam/24.txt" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/6-贝叶斯-决策树/Byes/data/email/spam/24.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day12(7.24)/Byes/data/email/spam/25.txt" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/6-贝叶斯-决策树/Byes/data/email/spam/25.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day12(7.24)/Byes/data/email/spam/3.txt" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/6-贝叶斯-决策树/Byes/data/email/spam/3.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day12(7.24)/Byes/data/email/spam/4.txt" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/6-贝叶斯-决策树/Byes/data/email/spam/4.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day12(7.24)/Byes/data/email/spam/5.txt" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/6-贝叶斯-决策树/Byes/data/email/spam/5.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day12(7.24)/Byes/data/email/spam/6.txt" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/6-贝叶斯-决策树/Byes/data/email/spam/6.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day12(7.24)/Byes/data/email/spam/7.txt" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/6-贝叶斯-决策树/Byes/data/email/spam/7.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day12(7.24)/Byes/data/email/spam/8.txt" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/6-贝叶斯-决策树/Byes/data/email/spam/8.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day12(7.24)/Byes/data/email/spam/9.txt" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/6-贝叶斯-决策树/Byes/data/email/spam/9.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day12(7.24)/Byes/target/.ipynb_checkpoints/Bayes-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/6-贝叶斯-决策树/Byes/target/.ipynb_checkpoints/Bayes-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day12(7.24)/Byes/target/.ipynb_checkpoints/Bayes课堂代码-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/6-贝叶斯-决策树/Byes/target/.ipynb_checkpoints/Bayes课堂代码-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day12(7.24)/Byes/target/.ipynb_checkpoints/文本分类处理-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/6-贝叶斯-决策树/Byes/target/.ipynb_checkpoints/文本分类处理-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day12(7.24)/Byes/target/.ipynb_checkpoints/高斯分布朴素贝叶斯分类预测-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/nlp/nlp学习-寒小阳/.ipynb_checkpoints/朴素贝叶斯实战与进阶-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day12(7.24)/Byes/target/1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/6-贝叶斯-决策树/Byes/target/1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day12(7.24)/Byes/target/10.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/6-贝叶斯-决策树/Byes/target/10.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day12(7.24)/Byes/target/11.png" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/6-贝叶斯-决策树/Byes/target/11.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day12(7.24)/Byes/target/12.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/6-贝叶斯-决策树/Byes/target/12.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day12(7.24)/Byes/target/2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/6-贝叶斯-决策树/Byes/target/2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day12(7.24)/Byes/target/3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/6-贝叶斯-决策树/Byes/target/3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day12(7.24)/Byes/target/4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/6-贝叶斯-决策树/Byes/target/4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day12(7.24)/Byes/target/5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/6-贝叶斯-决策树/Byes/target/5.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day12(7.24)/Byes/target/6.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/6-贝叶斯-决策树/Byes/target/6.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day12(7.24)/Byes/target/7.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/6-贝叶斯-决策树/Byes/target/7.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day12(7.24)/Byes/target/8.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/6-贝叶斯-决策树/Byes/target/8.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day12(7.24)/Byes/target/9.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/6-贝叶斯-决策树/Byes/target/9.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day12(7.24)/Byes/target/Bayes.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/6-贝叶斯-决策树/Byes/target/Bayes.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day12(7.24)/Byes/target/文本分类处理.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/6-贝叶斯-决策树/Byes/target/文本分类处理.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day12(7.24)/Byes/target/高斯分布朴素贝叶斯分类预测.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/6-贝叶斯-决策树/Byes/target/高斯分布朴素贝叶斯分类预测.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day12(7.24)/Day11-决策树与贝叶斯.xmind" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/6-贝叶斯-决策树/Day11-决策树与贝叶斯.xmind" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day12(7.24)/lenses.txt" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/6-贝叶斯-决策树/lenses.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day12(7.24)/决策树/data/lenses.txt" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/6-贝叶斯-决策树/决策树/data/lenses.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day12(7.24)/决策树/target/.ipynb_checkpoints/DecisionTree-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/6-贝叶斯-决策树/决策树/target/.ipynb_checkpoints/DecisionTree-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day12(7.24)/决策树/target/.ipynb_checkpoints/三种分类算法的比较-checkpoint(1).ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/nlp/nlp学习-寒小阳/Lecture_2/Naive-Bayes-Text-Classifier/.ipynb_checkpoints/朴素贝叶斯新闻分类-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day12(7.24)/决策树/target/.ipynb_checkpoints/决策树预测圆-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/6-贝叶斯-决策树/决策树/target/.ipynb_checkpoints/决策树预测圆-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day12(7.24)/决策树/target/.ipynb_checkpoints/预测隐形眼镜类型-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/6-贝叶斯-决策树/决策树/target/.ipynb_checkpoints/预测隐形眼镜类型-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day12(7.24)/决策树/target/1.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/6-贝叶斯-决策树/决策树/target/1.PNG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day12(7.24)/决策树/target/10.gif" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/6-贝叶斯-决策树/决策树/target/10.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day12(7.24)/决策树/target/11.png" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/6-贝叶斯-决策树/决策树/target/11.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day12(7.24)/决策树/target/2.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/6-贝叶斯-决策树/决策树/target/2.PNG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day12(7.24)/决策树/target/3.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/6-贝叶斯-决策树/决策树/target/3.PNG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day12(7.24)/决策树/target/4.gif" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/6-贝叶斯-决策树/决策树/target/4.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day12(7.24)/决策树/target/5.gif" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/6-贝叶斯-决策树/决策树/target/5.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day12(7.24)/决策树/target/6.gif" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/6-贝叶斯-决策树/决策树/target/6.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day12(7.24)/决策树/target/7.png" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/6-贝叶斯-决策树/决策树/target/7.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day12(7.24)/决策树/target/8.gif" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/6-贝叶斯-决策树/决策树/target/8.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day12(7.24)/决策树/target/9.gif" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/6-贝叶斯-决策树/决策树/target/9.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day12(7.24)/决策树/target/DecisionTree.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/6-贝叶斯-决策树/决策树/target/DecisionTree.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day12(7.24)/决策树/target/三种分类算法的比较.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/6-贝叶斯-决策树/决策树/target/三种分类算法的比较.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day12(7.24)/决策树/target/决策树预测圆.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/6-贝叶斯-决策树/决策树/target/决策树预测圆.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day12(7.24)/预测隐形眼镜类型.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/6-贝叶斯-决策树/预测隐形眼镜类型.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day13(7.25)/.ipynb_checkpoints/Kmeans压缩图片-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/7-SVM-Kmeans/.ipynb_checkpoints/Kmeans压缩图片-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day13(7.25)/.ipynb_checkpoints/Kmeans基本使用-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/7-SVM-Kmeans/.ipynb_checkpoints/Kmeans基本使用-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day13(7.25)/.ipynb_checkpoints/Kmeans常见错误-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/7-SVM-Kmeans/.ipynb_checkpoints/Kmeans常见错误-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day13(7.25)/.ipynb_checkpoints/SVM绘制分类超平面-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/7-SVM-Kmeans/.ipynb_checkpoints/SVM绘制分类超平面-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day13(7.25)/.ipynb_checkpoints/三种内核分类边界比较-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/7-SVM-Kmeans/.ipynb_checkpoints/三种内核分类边界比较-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day13(7.25)/.ipynb_checkpoints/中国足球实力分析-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/7-SVM-Kmeans/.ipynb_checkpoints/中国足球实力分析-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day13(7.25)/.ipynb_checkpoints/作业-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/7-SVM-Kmeans/.ipynb_checkpoints/作业-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day13(7.25)/.ipynb_checkpoints/垃圾邮件识别-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/7-SVM-Kmeans/.ipynb_checkpoints/垃圾邮件识别-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day13(7.25)/Day12-SVM与K均值聚类.xmind" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/7-SVM-Kmeans/Day12-SVM与K均值聚类.xmind" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day13(7.25)/Kmeans压缩图片.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/7-SVM-Kmeans/Kmeans压缩图片.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day13(7.25)/Kmeans基本使用.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/7-SVM-Kmeans/Kmeans基本使用.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day13(7.25)/Kmeans常见错误.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/7-SVM-Kmeans/Kmeans常见错误.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day13(7.25)/SVM绘制分类超平面.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day13(7.25)/data/AsiaZoo.txt" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/7-SVM-Kmeans/data/AsiaZoo.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day13(7.25)/data/big.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/7-SVM-Kmeans/data/big.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day13(7.25)/data/bird_small.png" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/7-SVM-Kmeans/data/bird_small.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day13(7.25)/data/diabetic_data.csv" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/7-SVM-Kmeans/data/diabetic_data.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day13(7.25)/data/email/ham/1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/7-SVM-Kmeans/data/email/ham/1.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day13(7.25)/data/email/ham/10.txt" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/7-SVM-Kmeans/data/email/ham/10.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day13(7.25)/data/email/ham/11.txt" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/7-SVM-Kmeans/data/email/ham/11.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day13(7.25)/data/email/ham/12.txt" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/7-SVM-Kmeans/data/email/ham/12.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day13(7.25)/data/email/ham/13.txt" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/7-SVM-Kmeans/data/email/ham/13.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day13(7.25)/data/email/ham/14.txt" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/7-SVM-Kmeans/data/email/ham/14.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day13(7.25)/data/email/ham/15.txt" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/7-SVM-Kmeans/data/email/ham/15.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day13(7.25)/data/email/ham/16.txt" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/7-SVM-Kmeans/data/email/ham/16.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day13(7.25)/data/email/ham/17.txt" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/7-SVM-Kmeans/data/email/ham/17.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day13(7.25)/data/email/ham/18.txt" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/7-SVM-Kmeans/data/email/ham/18.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day13(7.25)/data/email/ham/19.txt" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/7-SVM-Kmeans/data/email/ham/19.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day13(7.25)/data/email/ham/2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/7-SVM-Kmeans/data/email/ham/2.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day13(7.25)/data/email/ham/20.txt" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/7-SVM-Kmeans/data/email/ham/20.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day13(7.25)/data/email/ham/21.txt" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/7-SVM-Kmeans/data/email/ham/21.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day13(7.25)/data/email/ham/22.txt" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/7-SVM-Kmeans/data/email/ham/22.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day13(7.25)/data/email/ham/23.txt" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/7-SVM-Kmeans/data/email/ham/23.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day13(7.25)/data/email/ham/24.txt" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/7-SVM-Kmeans/data/email/ham/24.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day13(7.25)/data/email/ham/25.txt" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/7-SVM-Kmeans/data/email/ham/25.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day13(7.25)/data/email/ham/3.txt" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/7-SVM-Kmeans/data/email/ham/3.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day13(7.25)/data/email/ham/4.txt" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/7-SVM-Kmeans/data/email/ham/4.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day13(7.25)/data/email/ham/5.txt" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/7-SVM-Kmeans/data/email/ham/5.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day13(7.25)/data/email/ham/6.txt" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/7-SVM-Kmeans/data/email/ham/6.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day13(7.25)/data/email/ham/7.txt" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/7-SVM-Kmeans/data/email/ham/7.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day13(7.25)/data/email/ham/8.txt" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/7-SVM-Kmeans/data/email/ham/8.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day13(7.25)/data/email/ham/9.txt" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/7-SVM-Kmeans/data/email/ham/9.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day13(7.25)/data/email/spam/1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/7-SVM-Kmeans/data/email/spam/1.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day13(7.25)/data/email/spam/10.txt" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/7-SVM-Kmeans/data/email/spam/10.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day13(7.25)/data/email/spam/11.txt" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/7-SVM-Kmeans/data/email/spam/11.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day13(7.25)/data/email/spam/12.txt" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/7-SVM-Kmeans/data/email/spam/12.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day13(7.25)/data/email/spam/13.txt" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/7-SVM-Kmeans/data/email/spam/13.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day13(7.25)/data/email/spam/14.txt" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/7-SVM-Kmeans/data/email/spam/14.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day13(7.25)/data/email/spam/15.txt" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/7-SVM-Kmeans/data/email/spam/15.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day13(7.25)/data/email/spam/16.txt" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/7-SVM-Kmeans/data/email/spam/16.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day13(7.25)/data/email/spam/17.txt" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/7-SVM-Kmeans/data/email/spam/17.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day13(7.25)/data/email/spam/18.txt" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/7-SVM-Kmeans/data/email/spam/18.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day13(7.25)/data/email/spam/19.txt" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/7-SVM-Kmeans/data/email/spam/19.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day13(7.25)/data/email/spam/2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/7-SVM-Kmeans/data/email/spam/2.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day13(7.25)/data/email/spam/20.txt" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/7-SVM-Kmeans/data/email/spam/20.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day13(7.25)/data/email/spam/21.txt" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/7-SVM-Kmeans/data/email/spam/21.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day13(7.25)/data/email/spam/22.txt" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/7-SVM-Kmeans/data/email/spam/22.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day13(7.25)/data/email/spam/23.txt" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/7-SVM-Kmeans/data/email/spam/23.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day13(7.25)/data/email/spam/24.txt" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/7-SVM-Kmeans/data/email/spam/24.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day13(7.25)/data/email/spam/25.txt" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/7-SVM-Kmeans/data/email/spam/25.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day13(7.25)/data/email/spam/3.txt" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/7-SVM-Kmeans/data/email/spam/3.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day13(7.25)/data/email/spam/4.txt" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/7-SVM-Kmeans/data/email/spam/4.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day13(7.25)/data/email/spam/5.txt" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/7-SVM-Kmeans/data/email/spam/5.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day13(7.25)/data/email/spam/6.txt" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/7-SVM-Kmeans/data/email/spam/6.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day13(7.25)/data/email/spam/7.txt" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/7-SVM-Kmeans/data/email/spam/7.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day13(7.25)/data/email/spam/8.txt" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/7-SVM-Kmeans/data/email/spam/8.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day13(7.25)/data/email/spam/9.txt" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/7-SVM-Kmeans/data/email/spam/9.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day13(7.25)/data/ex7data2.mat" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/7-SVM-Kmeans/data/ex7data2.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day13(7.25)/data/small_bird.png" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/7-SVM-Kmeans/data/small_bird.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day13(7.25)/goodgirl.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/7-SVM-Kmeans/goodgirl.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day13(7.25)/三种内核分类边界比较.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/7-SVM-Kmeans/三种内核分类边界比较.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day13(7.25)/中国足球实力分析.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/7-SVM-Kmeans/中国足球实力分析.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day13(7.25)/作业.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/7-SVM-Kmeans/作业.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day13(7.25)/垃圾邮件识别.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/7-SVM-Kmeans/垃圾邮件识别.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day14(7.26)/.ipynb_checkpoints/交叉验证-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/8-特征处理-交叉验证-降维等常用方法/.ipynb_checkpoints/交叉验证-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day14(7.26)/.ipynb_checkpoints/人脸识别-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/3-绘图2/homework_Sea distance/.ipynb_checkpoints/home_work-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day14(7.26)/.ipynb_checkpoints/特征选择-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/6-贝叶斯-决策树/Byes/target/.ipynb_checkpoints/高斯分布朴素贝叶斯分类预测-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day14(7.26)/.ipynb_checkpoints/特征预处理-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/8-特征处理-交叉验证-降维等常用方法/.ipynb_checkpoints/特征预处理-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day14(7.26)/.ipynb_checkpoints/网格搜索-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/8-特征处理-交叉验证-降维等常用方法/.ipynb_checkpoints/网格搜索-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day14(7.26)/.ipynb_checkpoints/降维-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/8-特征处理-交叉验证-降维等常用方法/.ipynb_checkpoints/降维-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day14(7.26)/.ipynb_checkpoints/集成学习-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/8-特征处理-交叉验证-降维等常用方法/.ipynb_checkpoints/集成学习-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day14(7.26)/.ipynb_checkpoints/预测病马死亡-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/8-特征处理-交叉验证-降维等常用方法/.ipynb_checkpoints/预测病马死亡-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day14(7.26)/Day13机器学习练习（上）.xmind" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/8-特征处理-交叉验证-降维等常用方法/Day13机器学习练习（上）.xmind" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day14(7.26)/Day14机器学习练习（下）.xmind" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/8-特征处理-交叉验证-降维等常用方法/Day14机器学习练习（下）.xmind" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day14(7.26)/code/交叉验证.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/8-特征处理-交叉验证-降维等常用方法/code/交叉验证.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day14(7.26)/code/人脸识别.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/8-特征处理-交叉验证-降维等常用方法/code/人脸识别.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day14(7.26)/code/特征选择.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/8-特征处理-交叉验证-降维等常用方法/code/特征选择.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day14(7.26)/code/特征预处理.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/8-特征处理-交叉验证-降维等常用方法/code/特征预处理.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day14(7.26)/code/网格搜索.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/8-特征处理-交叉验证-降维等常用方法/code/网格搜索.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day14(7.26)/code/降维.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/8-特征处理-交叉验证-降维等常用方法/code/降维.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day14(7.26)/code/集成学习.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/8-特征处理-交叉验证-降维等常用方法/code/集成学习.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day14(7.26)/code/预测病马死亡.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/8-特征处理-交叉验证-降维等常用方法/code/预测病马死亡.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day14(7.26)/data/abalone.txt" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/8-特征处理-交叉验证-降维等常用方法/data/abalone.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day14(7.26)/data/adults.txt" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/8-特征处理-交叉验证-降维等常用方法/data/adults.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day14(7.26)/data/datingTestSet.txt" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/8-特征处理-交叉验证-降维等常用方法/data/datingTestSet.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day14(7.26)/data/digits.csv" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/8-特征处理-交叉验证-降维等常用方法/data/digits.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day14(7.26)/data/horseColicTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/8-特征处理-交叉验证-降维等常用方法/data/horseColicTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day14(7.26)/data/horseColicTraining.txt" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/8-特征处理-交叉验证-降维等常用方法/data/horseColicTraining.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day14(7.26)/data/seeds.csv" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/8-特征处理-交叉验证-降维等常用方法/data/seeds.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day14(7.26)/data/student-data.csv" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/8-特征处理-交叉验证-降维等常用方法/data/student-data.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/day06-15/day14(7.26)/特征工程.xmind" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/day06-15/8-特征处理-交叉验证-降维等常用方法/特征工程.xmind" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>preprocessor</find>
+      <find>features=&quot;lxml&quot;</find>
+      <find>features=</find>
+      <find>stop</find>
+      <find>stop_words</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/nlp/nlp学习-寒小阳/Lecture_2/Naive-Bayes-Text-Classifier/朴素贝叶斯新闻分类.py" />
+        <option value="$PROJECT_DIR$/nlp/nlp学习-寒小阳/Lecture_2/Language-Detector/简易语种检测器.py" />
+        <option value="$PROJECT_DIR$/nlp/nlp学习-寒小阳/朴素贝叶斯实战与进阶.py" />
+        <option value="$PROJECT_DIR$/nlp/nlp学习-寒小阳/朴素贝叶斯实战与进阶_新闻分类.py" />
+        <option value="$PROJECT_DIR$/nlp/nlp学习-寒小阳/朴素贝叶斯实战与进阶_Kaggle比赛之影评与观影者情感判定.py" />
+        <option value="$PROJECT_DIR$/nlp/nlp学习-寒小阳/朴素贝叶斯实战与进阶_Kaggle比赛之影评与观影者情感判定/test_1.py" />
+        <option value="$PROJECT_DIR$/nlp/实战_判断是否为医美互动/stop_word.txt" />
+        <option value="$PROJECT_DIR$/nlp/nlp学习-寒小阳/朴素贝叶斯实战与进阶_Kaggle比赛之影评与观影者情感判定/朴素贝叶斯实战与进阶_Kaggle比赛之影评与观影者情感判定.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/Data-Analysis-learning-notes.iml" />
+        <option value="$PROJECT_DIR$/.idea/misc.xml" />
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/.idea/modules.xml" />
+        <option value="$PROJECT_DIR$/.idea/encodings.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="96" />
+    <option name="y" value="101" />
+    <option name="width" value="1413" />
+    <option name="height" value="846" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/machine-learning/最邻近规则分类(K-Nearest Neighbor)KNN算法" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\github\Data-Analysis-learning-notes\machine-learning\最邻近规则分类(K-Nearest Neighbor)KNN算法" />
+      <recent name="D:\github\Data-Analysis-learning-notes\machine-learning\最邻近规则分类(K-Nearest Neighbor)KNN算法\判断医美是否医美相关" />
+      <recent name="D:\github\Data-Analysis-learning-notes\nlp\实战_判断是否为医美互动" />
+      <recent name="D:\github\Data-Analysis-learning-notes\machine-learning\机器学习系列(3)_逻辑回归应用之Kaggle泰坦尼克之灾" />
+      <recent name="D:\github\Data-Analysis-learning-notes\nlp\nlp学习-寒小阳\朴素贝叶斯实战与进阶_Kaggle比赛之影评与观影者情感判定" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\github\Data-Analysis-learning-notes\machine-learning\逻辑斯蒂回归" />
+      <recent name="D:\github\Data-Analysis-learning-notes\nlp\nlp学习-寒小阳\朴素贝叶斯实战与进阶_Kaggle比赛之影评与观影者情感判定" />
+      <recent name="D:\github\Data-Analysis-learning-notes\nlp\nlp学习-寒小阳\Lecture_2\Naive-Bayes-Text-Classifier" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.朴素贝叶斯实战与进阶_Kaggle比赛之影评与观影者情感判定">
+    <configuration name="朴素贝叶斯新闻分类" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Data-Analysis-learning-notes" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/nlp/nlp学习-寒小阳/Lecture_2/Naive-Bayes-Text-Classifier" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/nlp/nlp学习-寒小阳/Lecture_2/Naive-Bayes-Text-Classifier/朴素贝叶斯新闻分类.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="简易语种检测器" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Data-Analysis-learning-notes" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/nlp/nlp学习-寒小阳/Lecture_2/Language-Detector" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/nlp/nlp学习-寒小阳/Lecture_2/Language-Detector/简易语种检测器.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="朴素贝叶斯实战与进阶" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Data-Analysis-learning-notes" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/nlp/nlp学习-寒小阳" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="D:\github\Data-Analysis-learning-notes\nlp\nlp学习-寒小阳\朴素贝叶斯实战与进阶_鸢尾分类.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="简易语种检测器" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Data-Analysis-learning-notes" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/nlp/nlp学习-寒小阳/Lecture_2/Language-Detector" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/nlp/nlp学习-寒小阳/Lecture_2/Language-Detector/简易语种检测器.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="朴素贝叶斯实战与进阶_鸢尾分类" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Data-Analysis-learning-notes" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/nlp/nlp学习-寒小阳" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/nlp/nlp学习-寒小阳/朴素贝叶斯实战与进阶_鸢尾分类.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="朴素贝叶斯实战与进阶_Kaggle比赛之影评与观影者情感判定" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Data-Analysis-learning-notes" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/nlp/nlp学习-寒小阳/朴素贝叶斯实战与进阶_Kaggle比赛之影评与观影者情感判定" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/nlp/nlp学习-寒小阳/朴素贝叶斯实战与进阶_Kaggle比赛之影评与观影者情感判定/朴素贝叶斯实战与进阶_Kaggle比赛之影评与观影者情感判定.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.朴素贝叶斯实战与进阶_Kaggle比赛之影评与观影者情感判定" />
+        <item itemvalue="Python.朴素贝叶斯实战与进阶_鸢尾分类" />
+        <item itemvalue="Python.朴素贝叶斯新闻分类" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5a17bba8-5b59-447c-9482-fc8b06693f32" name="默认更改列表" comment="" />
+      <created>1568015666376</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1568015666376</updated>
+      <workItem from="1568015667701" duration="9745000" />
+      <workItem from="1570694854271" duration="2960000" />
+      <workItem from="1571048534330" duration="14532000" />
+      <workItem from="1574239464377" duration="2643000" />
+      <workItem from="1574405848076" duration="1923000" />
+      <workItem from="1574645900892" duration="2071000" />
+      <workItem from="1574654061286" duration="12880000" />
+      <workItem from="1574996753027" duration="1482000" />
+      <workItem from="1576812416822" duration="7044000" />
+    </task>
+    <task id="LOCAL-00001" summary="111">
+      <created>1574239540283</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1574239540283</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="55280000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.6314031" visible="true" weight="0.28624734" />
+      <window_info id="Structure" order="1" sideWeight="0.36818686" side_tool="true" weight="0.24253732" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.31625834" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="调试" order="11" weight="0.31959912" />
+      <window_info anchor="bottom" id="Terminal" order="12" visible="true" weight="0.3040089" />
+      <window_info anchor="bottom" id="Python Console" order="13" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" weight="0.32995737" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="111" />
+    <option name="LAST_COMMIT_MESSAGE" value="111" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Data_Analysis_learning_notes$.coverage" NAME="简易语种检测器 Coverage Results" MODIFIED="1574652539449" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/nlp/nlp学习-寒小阳/Lecture_2/Language-Detector" />
+    <SUITE FILE_PATH="coverage/Data_Analysis_learning_notes$_Kaggle.coverage" NAME="朴素贝叶斯实战与进阶_Kaggle比赛之影评与观影者情感判定 Coverage Results" MODIFIED="1574670059157" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/nlp/nlp学习-寒小阳/朴素贝叶斯实战与进阶_Kaggle比赛之影评与观影者情感判定" />
+    <SUITE FILE_PATH="coverage/Data_Analysis_learning_notes$_.coverage" NAME="朴素贝叶斯实战与进阶_鸢尾分类 Coverage Results" MODIFIED="1574240612862" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/nlp/nlp学习-寒小阳" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/nlp/nlp学习-寒小阳/Lecture_2/2.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nlp/nlp学习-寒小阳/Lecture_2/Naive-Bayes-Text-Classifier/朴素贝叶斯新闻分类.ipynb">
+      <provider selected="true" editor-type-id="jupyter-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nlp/nlp学习-寒小阳/Lecture_2/Naive-Bayes-Text-Classifier/朴素贝叶斯新闻分类.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-200239" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nlp/nlp学习-寒小阳/Lecture_2/Naive-Bayes-Text-Classifier/stopwords_cn.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://D:/venvs/spider_env/Lib/site-packages/sklearn/utils/extmath.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="178">
+          <caret line="141" selection-start-line="141" selection-end-line="141" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/venvs/spider_env/Lib/site-packages/matplotlib/pyplot.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="282">
+          <caret line="2785" column="4" selection-start-line="2785" selection-start-column="4" selection-end-line="2785" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nlp/nlp学习-寒小阳/Lecture_2/Language-Detector/data.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="477">
+          <caret line="25" column="42" lean-forward="true" selection-start-line="25" selection-start-column="42" selection-end-line="25" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/venvs/spider_env/Lib/site-packages/sklearn/model_selection/_split.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="498">
+          <caret line="2025" lean-forward="true" selection-start-line="2025" selection-end-line="2025" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/venvs/spider_env/Lib/site-packages/sklearn/feature_extraction/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="3" column="7" lean-forward="true" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
+          <folding>
+            <element signature="e#171#214#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nlp/dict.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nlp/nlp学习-寒小阳/Lecture_2/Naive-Bayes-Text-Classifier/朴素贝叶斯新闻分类.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="236">
+          <caret line="172" lean-forward="true" selection-start-line="172" selection-end-line="172" />
+          <folding>
+            <element signature="e#15#24#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nlp/nlp学习-寒小阳/朴素贝叶斯实战与进阶.ipynb" />
+    <entry file="file://D:/venvs/spider_env/Lib/site-packages/sklearn/datasets/base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="330" column="12" selection-start-line="330" selection-start-column="12" selection-end-line="330" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/venvs/spider_env/Lib/site-packages/sklearn/datasets/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2669">
+          <folding>
+            <element signature="e#194#230#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/venvs/spider_env/Lib/site-packages/sklearn/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://D:/venvs/spider_env/Lib/site-packages/sklearn/model_selection/_search.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1872">
+          <caret line="1134" column="8" selection-start-line="1134" selection-start-column="8" selection-end-line="1134" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nlp/.ipynb_checkpoints/Gensim学习笔记-checkpoint.ipynb">
+      <provider selected="true" editor-type-id="jupyter-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nlp/.ipynb_checkpoints/Python NLTK 自然语言处理入门与例程-checkpoint.ipynb">
+      <provider selected="true" editor-type-id="jupyter-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nlp/nlp学习-寒小阳/朴素贝叶斯实战与进阶_Kaggle比赛之影评与观影者情感判定/test_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="9" column="30" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/venvs/spider_env/Lib/site-packages/bs4/element.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="949" column="49" lean-forward="true" selection-start-line="949" selection-start-column="49" selection-end-line="949" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/venvs/spider_env/Lib/site-packages/bs4/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="578" column="31" selection-start-line="578" selection-start-column="22" selection-end-line="578" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nlp/Gensim学习笔记.ipynb">
+      <provider selected="true" editor-type-id="jupyter-editor" />
+    </entry>
+    <entry file="file://D:/venvs/spider_env/Lib/site-packages/sklearn/naive_bayes.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1337">
+          <caret line="635" column="6" selection-start-line="635" selection-start-column="6" selection-end-line="635" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nlp/nlp学习-寒小阳/朴素贝叶斯实战与进阶_新闻分类.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="584">
+          <caret line="142" column="9" lean-forward="true" selection-start-line="142" selection-start-column="9" selection-end-line="142" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nlp/nlp学习-寒小阳/朴素贝叶斯实战与进阶_鸢尾分类.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="7" column="28" lean-forward="true" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nlp/nlp学习-寒小阳/Lecture_2/Language-Detector/简易语种检测器.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="436">
+          <caret line="41" column="46" lean-forward="true" selection-start-line="41" selection-start-column="46" selection-end-line="41" selection-end-column="46" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nlp/nlp学习-寒小阳/朴素贝叶斯实战与进阶_Kaggle比赛之影评与观影者情感判定/labeledTrainData.tsv">
+      <provider selected="true" editor-type-id="LargeFileEditor">
+        <state relative-caret-position="-26980" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nlp/nlp学习-寒小阳/朴素贝叶斯实战与进阶_Kaggle比赛之影评与观影者情感判定/testData.tsv">
+      <provider selected="true" editor-type-id="LargeFileEditor">
+        <state relative-caret-position="4140">
+          <caret line="138" column="21" lean-forward="true" selection-start-line="138" selection-start-column="21" selection-end-line="138" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nlp/nlp学习-寒小阳/朴素贝叶斯实战与进阶_Kaggle比赛之影评与观影者情感判定/unlabeledTrainData.tsv">
+      <provider selected="true" editor-type-id="LargeFileEditor">
+        <state relative-caret-position="-3690" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nlp/nlp学习-寒小阳/朴素贝叶斯实战与进阶_Kaggle比赛之影评与观影者情感判定/sampleSubmission.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nlp/实战_判断是否为医美互动/stop_word.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2220">
+          <caret line="4" column="2" lean-forward="true" selection-start-line="4" selection-start-column="2" selection-end-line="4" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/venvs/spider_env/Lib/site-packages/sklearn/feature_extraction/text.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="1423" column="45" lean-forward="true" selection-start-line="1423" selection-start-column="45" selection-end-line="1423" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nlp/nlp学习-寒小阳/朴素贝叶斯实战与进阶_Kaggle比赛之影评与观影者情感判定/test_predict.csv">
+      <provider selected="true" editor-type-id="LargeFileEditor">
+        <state relative-caret-position="-1631">
+          <caret line="417" column="671" lean-forward="true" selection-start-line="417" selection-start-column="671" selection-end-line="417" selection-end-column="671" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nlp/实战_判断是否为医美互动/yimei_data.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="443">
+          <caret line="8494" column="15" lean-forward="true" selection-start-line="8494" selection-start-column="15" selection-end-line="8494" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nlp/nlp学习-寒小阳/朴素贝叶斯实战与进阶_Kaggle比赛之影评与观影者情感判定/朴素贝叶斯实战与进阶_Kaggle比赛之影评与观影者情感判定.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="82">
+          <caret line="82" column="34" selection-start-line="82" selection-start-column="34" selection-end-line="82" selection-end-column="34" />
+          <folding>
+            <element signature="e#197#215#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/数据分析/学习记录.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nlp/PythonNLTK自然语言处理入门与例程.ipynb">
+      <provider selected="true" editor-type-id="jupyter-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nlp/结巴分词.ipynb">
+      <provider selected="true" editor-type-id="jupyter-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/数据分析/day06-15/5-逻辑斯蒂/codes/手写数字识别.ipynb">
+      <provider selected="true" editor-type-id="jupyter-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/数据分析/day06-15/5-逻辑斯蒂/codes/人脸补全.ipynb">
+      <provider selected="true" editor-type-id="jupyter-editor" />
+    </entry>
+  </component>
+</project>

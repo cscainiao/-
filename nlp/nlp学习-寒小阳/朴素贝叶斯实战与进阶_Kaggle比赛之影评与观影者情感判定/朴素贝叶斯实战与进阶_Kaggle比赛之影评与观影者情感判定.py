@@ -58,8 +58,8 @@ from sklearn.naive_bayes import MultinomialNB as MNB
 from sklearn.externals import joblib
 
 model_NB = MNB()
-# model_NB.fit(X, y_train) #特征数据直接灌进来
-# MNB(alpha=1.0, class_prior=None, fit_prior=True)
+model_NB.fit(X, y_train) #特征数据直接灌进来
+MNB(alpha=1.0, class_prior=None, fit_prior=True)
 # # joblib.dump(model_NB, 'model_NB.m')
 # X_p = model_NB.predict(X_test)
 # print(X_p)
@@ -73,21 +73,21 @@ print("多项式贝叶斯分类器20折交叉验证得分: ", np.mean(cross_val_
 
 
 
-# 折腾一下逻辑回归，恩
-# from sklearn.linear_model import LogisticRegression as LR, LogisticRegression
-# from sklearn.model_selection  import GridSearchCV
-#
-# # 设定grid search的参数
-# grid_values = {'C':[30]}
-# # 设定打分为roc_auc
-# model_LR = GridSearchCV(LR(penalty = 'L2', dual = True, random_state=0), grid_values, scoring = 'roc_auc', cv = 20)
-# # 数据灌进来
-# model_LR.fit(X,y_train)
-# # 20折交叉验证，开始漫长的等待...
-# GridSearchCV(cv=10, estimator=LogisticRegression(C=1.0, class_weight=None, dual=True,
-#              fit_intercept=True, intercept_scaling=1, penalty='L2', random_state=0, tol=0.0001),
-#          iid=True,  n_jobs=1,
-#         param_grid={'C': [30]}, pre_dispatch='2*n_jobs', refit=True,
-#          scoring='roc_auc', verbose=0)
-# #输出结果
-# print(model_LR.best_score_)
+#折腾一下逻辑回归，恩
+from sklearn.linear_model import LogisticRegression as LR, LogisticRegression
+from sklearn.model_selection import GridSearchCV
+
+# 设定grid search的参数
+grid_values = {'C':[30]}
+# 设定打分为roc_auc
+model_LR = GridSearchCV(LR(penalty='L2', dual = True, random_state=0), grid_values, scoring='roc_auc', cv=20)
+# 数据灌进来
+model_LR.fit(X,y_train)
+# 20折交叉验证，开始漫长的等待...
+GridSearchCV(cv=10, estimator=LogisticRegression(C=1.0, class_weight=None, dual=True,
+             fit_intercept=True, intercept_scaling=1, penalty='L2', random_state=0, tol=0.0001),
+         iid=True,  n_jobs=1,
+        param_grid={'C': [30]}, pre_dispatch='2*n_jobs', refit=True,
+         scoring='roc_auc', verbose=0)
+#输出结果
+print(model_LR.best_score_)
